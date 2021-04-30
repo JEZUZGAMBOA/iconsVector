@@ -1,0 +1,12 @@
+{
+  "name": "iconsVector",
+  "displayName": "iconsVector",
+  "expo": {
+    "name": "iconsVector",
+    "slug": "iconsVector",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
